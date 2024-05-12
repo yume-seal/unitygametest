@@ -1,0 +1,11 @@
+Library/
+Temp/
+Packages/
+PackageCache/
+PackageManager/
+ProjectCache/
+com*
+Logs/
+UserSettings/
+*.meta
+.DS_Store
